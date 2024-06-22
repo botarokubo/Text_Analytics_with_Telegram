@@ -12,3 +12,6 @@ the range of 0 – 1.0)
 
 You need to 
 pip install telethon asynchio nest_asynchio nltk pandas
+
+dataset.json is an example of execution of the code.
+GLHF !! 
